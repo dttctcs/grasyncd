@@ -1,0 +1,15 @@
+apiVersion: 1
+
+users:
+  - name: Olaf
+    organizations:  
+      - name: "Gyros Org"
+        role: "admin"
+      - name:  "DoenerOrg"
+        role: "Viewer"
+  - name: Matthias
+    organizations:  
+      - name: "Gyros Org"
+        role: "Editor"
+      - name: "Gibts Norg"
+        role: "GOD"

@@ -1,0 +1,5 @@
+apiVersion: 1
+
+organizations:
+  - name: DoenerOrg
+  - name: Gyros Org
